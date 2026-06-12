@@ -19,6 +19,7 @@ It also implements [NixOS](https://nixos.org/nixos/), a purely-functional Linux 
 
 
 
+
 # Manuals
 
 * [NixOS Manual](https://nixos.org/nixos/manual) - how to install, configure, and maintain a purely-functional Linux distribution
